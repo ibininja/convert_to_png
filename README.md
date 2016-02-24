@@ -1,4 +1,4 @@
-# Convert Image to PNG Tool
+# Convert to PNG Tool
 This is a python command line tool to convert images to pngs. This tool utilized args and opencv modules.
 
 # Requirements

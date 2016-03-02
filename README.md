@@ -5,6 +5,9 @@ This is a python command line tool to convert images to pngs. This tool utilized
  * Python 2.7
  * Opencv installed in python 2.7
 
+# Releases
+* Check release tab for binaries. If you are in windows you can use the .exe directly without the need to have python installed. Simply download and use the exe from the cmd.
+
 # Usage
  * in command line use basic usage: 
 
